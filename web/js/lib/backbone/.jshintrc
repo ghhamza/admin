@@ -1,0 +1,8 @@
+{
+  "extends": "../../.jshintrc",
+  "indent": 2,
+  "quotmark": true,
+  "maxlen": 200,
+  "newcap": false,
+  "expr": true
+}
